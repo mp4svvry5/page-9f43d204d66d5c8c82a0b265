@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ba07093f87.hzmyb.cn/sitemap.xml
